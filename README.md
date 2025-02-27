@@ -10,6 +10,14 @@ Check out the live version of the website: [Pixel Art  Generator](https://captch
 Watch the video walkthrough of the project to see it in action!
 
 
+https://github.com/user-attachments/assets/f3a6bd50-2194-4580-8a40-7a708d8ccc77
+
+
+
+https://github.com/user-attachments/assets/77981dbf-f62f-4857-98f4-b411487b7f4e
+
+
+
 ## ✨ Features
 
 * Generates new captchas on every reload
