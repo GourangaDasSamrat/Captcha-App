@@ -39,6 +39,7 @@ captcha-generator/
 
 1. **Clone the repository**
    ```bash
+   git@github.com:GourangaDasSamrat/Captcha-App.git
 2.  Open `index.html` in your web browser.
 
 or
