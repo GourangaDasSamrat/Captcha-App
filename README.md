@@ -4,7 +4,7 @@ This is a simple captcha generator app built using HTML, CSS, and JavaScript. It
 
 
 🌟 **Live Demo**
-Check out the live version of the website: [Pixel Art  Generator]()
+Check out the live version of the website: [Pixel Art  Generator](https://captchaappbygouranga.tiiny.site/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
@@ -43,7 +43,7 @@ captcha-generator/
 
 or
 
-**[Click here]() to see this project on internet.**
+**[Click here](https://captchaappbygouranga.tiiny.site/) to see this project on internet.**
 
 
 
