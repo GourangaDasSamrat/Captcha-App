@@ -52,7 +52,7 @@ captcha-generator/
 
 or
 
-**[Click here](https://captchaappbygouranga.tiiny.site/) to see this project on internet.**
+**[Click here](https://captcha-app-two.vercel.app) to see this project on internet.**
 
 
 
